@@ -79,10 +79,8 @@ Your community, run by the people who write its code.
 | [Banner](https://github.com/cuzy-app/banner) | A customizable banner at the top of the screen |
 | [Auto Archive](https://github.com/cuzy-app/auto-archive) | Archive inactive spaces automatically |
 | [Cron Daemon](https://github.com/cuzy-app/cron-daemon) | Run HumHub's cron jobs from an external cron service |
-| [External Websites](https://github.com/cuzy-app/external-websites) | Comments, likes and files on pages of external websites |
-| [ActivityPub](https://github.com/cuzy-app/activitypub) | Connect HumHub to the Fediverse (early version) |
 
-Paid modules are dual-licensed: a commercial license from the [marketplace](https://marketplace.humhub.com/browse/by-organization?id=10), or the [GNU AGPL](https://www.cuzy.app/cuzy-license).
+Paid modules are [dual-licensed](https://www.cuzy.app/cuzy-license).
 
 ---
 
